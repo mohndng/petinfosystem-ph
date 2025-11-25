@@ -1,0 +1,5 @@
+{
+  "name": "Barangay PetInfo System",
+  "description": "A comprehensive management system for Barangay animal registry, vaccination tracking, and incident reporting.",
+  "requestFramePermissions": []
+}
